@@ -718,6 +718,24 @@ footer {
     -ms-grid-column: 1;
     grid-column: 1;
   }
+    main #project #project-all .project-block8 {
+    -ms-grid-row: 8;
+    grid-row: 8;
+    -ms-grid-column: 1;
+    grid-column: 1;
+  }
+  main #project #project-all .project-block9 {
+    -ms-grid-row: 9;
+    grid-row: 9;
+    -ms-grid-column: 1;
+    grid-column: 1;
+  }
+  main #project #project-all .project-block10 {
+    -ms-grid-row: 10;
+    grid-row: 10;
+    -ms-grid-column: 1;
+    grid-column: 1;
+  }
   main #contact #contact-block {
     margin-left: 1rem;
     text-align: unset;
